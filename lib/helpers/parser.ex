@@ -94,6 +94,7 @@ defmodule Helper.Parser do
       parser(:bj, "229")
       parser(:bn, "673")
       parser(:bo, "591")
+      parser(:bq, "599")
       parser(:br, "55")
       parser(:bt, "975")
       parser(:bw, "267")

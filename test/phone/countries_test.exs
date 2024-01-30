@@ -24,6 +24,7 @@ defmodule Phone.CountriesTest do
     Phone.BJ,
     Phone.BN,
     Phone.BO,
+    Phone.BQ,
     Phone.BR,
     Phone.BT,
     Phone.BW,
